@@ -10,9 +10,9 @@ var generalizationArray = ["africa","african", "africans", "subsaharan africa","
 
 var lightArray = ["sunset","sunrise","sunshine","sunlight","sun","glow","light"];
 
-var nature = ["savannah","rain forest","jungle","trees","insect","lion","rhino","hunt","big game"];
+var natureArray = ["savannah","rain forest","jungle","trees","insect","lion","rhino","hunt","big game"];
 
-var darkness = ["darkness","dark continent","darkest","bleak","hopeless","devastated","ridden","famine","hunger","starvation","disease","epidemic","child soldier","hiv","ebola","rebels","guerilla","war","conflict","armed","weapon","pirate","attack","kill","death","dead","murder","fear","menace","drought","smuggled weapons","smugglers","crime","gang","poor","desperate","ransom","execution","shot","death","pain","suffer","civil war","chaos","refugees","gun","gunshot"];
+var darknessArray = ["darkness","dark continent","darkest","bleak","hopeless","devastated","ridden","famine","hunger","starvation","disease","epidemic","child soldier","hiv","ebola","rebels","guerilla","war","conflict","armed","weapon","pirate","attack","kill","death","dead","murder","fear","menace","drought","smuggled weapons","smugglers","crime","gang","poor","desperate","ransom","execution","shot","death","pain","suffer","civil war","chaos","refugees","gun","gunshot"];
 
 function hiliter(word, element, tropeClass) {
 	/*
